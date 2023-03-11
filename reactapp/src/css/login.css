@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    
+}
+.loginhead{
+    border-bottom-style: solid;
+    border-color: orangered;
+    background-color: cyan;
+    border-top-right-radius:40px ;
+    border-top-left-radius:40px ;
+
+    height:75px;
+    padding-top:10px;
+    
+}
+.mainlogin{
+    
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    height:900px;
+}
+
+.login{
+    
+    border-style:solid;
+    border-radius: 40px;
+    height:400px;
+    width:400px;
+    
+    
+    
+}
+.loginform{
+    text-align: center;
+    
+    
+}
